@@ -1,0 +1,6 @@
+```text
+    fastapi
+    uvicorn
+    websockets
+    pymupdf
+    ```
